@@ -1,6 +1,6 @@
 # Breville-Oracle-Unofficial-FAQ
 
-This is an unofficial FAQ for Breville's Oracle automatic manual espresso machine. You are welcome to edit this document after signing in to GitHub and clicking the 'Edit file' link at top.
+This is an unofficial FAQ for Breville's Oracle automatic manual espresso machine. You are welcome to edit this document after signing in to GitHub and clicking the edit link at top. This document can be accessed using this URL: http://tinyurl.com/faqoracle
 
 ## Grinding
 
