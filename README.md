@@ -24,4 +24,5 @@ Source: [Kat Brazier](http://coffeegeek.com/forums/espresso/machines/661368#6613
 
 ### What does the "size & strength" setting mean for making Americano?
 
+cf. http://www.coffeegeek.com/forums/espresso/machines/692107
 ...
